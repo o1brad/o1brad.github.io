@@ -1,0 +1,44 @@
+
+.main {
+	font-family: Georgia;
+	padding-left: 35px;
+	padding-top: 15px;
+	color: #1a2633;
+	background-color: #25374a08;
+}
+
+.title {
+	border-bottom: 1px solid;
+	margin-bottom: 30px;
+	display: table;
+}
+
+.bullets {
+	font-size: 20pt;
+	max-width: 600px;
+}
+
+footer {
+	font-size: 20pt;
+}
+
+a {
+	text-decoration: none;
+	color: #c13445;
+
+}
+
+i {
+	padding-right: 20px;
+}
+
+a:hover {
+	color:#c13445a8;
+}
+
+h1 {
+	margin:0;
+	padding-bottom: 30px;
+	font-size: 40pt;
+	font-weight: lighter;
+}
